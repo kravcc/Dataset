@@ -1,0 +1,26 @@
+<annotation>
+	<folder>frames</folder>
+	<filename>353.jpeg</filename>
+	<path>/Users/marina/Desktop/figures_dataset/frames/353.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1080</width>
+		<height>1920</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Gray square</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>241</xmin>
+			<ymin>718</ymin>
+			<xmax>772</xmax>
+			<ymax>1228</ymax>
+		</bndbox>
+	</object>
+</annotation>

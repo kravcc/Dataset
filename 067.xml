@@ -1,0 +1,38 @@
+<annotation>
+	<folder>frames</folder>
+	<filename>067.jpeg</filename>
+	<path>/Users/marina/Desktop/figures_dataset/frames/067.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1080</width>
+		<height>1920</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Gray A-letter</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>730</xmin>
+			<ymin>767</ymin>
+			<xmax>906</xmax>
+			<ymax>912</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Gray circle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>945</xmin>
+			<ymin>395</ymin>
+			<xmax>1079</xmax>
+			<ymax>548</ymax>
+		</bndbox>
+	</object>
+</annotation>

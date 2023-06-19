@@ -1,0 +1,38 @@
+<annotation>
+	<folder>frames</folder>
+	<filename>302.jpeg</filename>
+	<path>/Users/marina/Desktop/figures_dataset/frames/302.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1080</width>
+		<height>1920</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Gray A-letter</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>504</xmin>
+			<ymin>491</ymin>
+			<xmax>766</xmax>
+			<ymax>746</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Gray ring</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>629</xmin>
+			<ymin>926</ymin>
+			<xmax>849</xmax>
+			<ymax>1152</ymax>
+		</bndbox>
+	</object>
+</annotation>

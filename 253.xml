@@ -1,0 +1,38 @@
+<annotation>
+	<folder>frames</folder>
+	<filename>253.jpeg</filename>
+	<path>/Users/marina/Desktop/figures_dataset/frames/253.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1080</width>
+		<height>1920</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Gray four</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>241</xmin>
+			<ymin>195</ymin>
+			<xmax>707</xmax>
+			<ymax>585</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Gray heart</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>433</xmin>
+			<ymin>838</ymin>
+			<xmax>862</xmax>
+			<ymax>1259</ymax>
+		</bndbox>
+	</object>
+</annotation>
