@@ -1,7 +1,7 @@
 <annotation>
-	<folder>frames</folder>
-	<filename>165.jpeg</filename>
-	<path>/Users/marina/Desktop/figures_dataset/frames/165.jpeg</path>
+	<folder>Dataset</folder>
+	<filename>165.jpg</filename>
+	<path>/Users/marina/Desktop/dataset_git/Dataset/165.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -38,13 +38,13 @@
 	<object>
 		<name>Gray star</name>
 		<pose>Unspecified</pose>
-		<truncated>1</truncated>
+		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>880</xmin>
-			<ymin>659</ymin>
-			<xmax>1080</xmax>
-			<ymax>934</ymax>
+			<xmin>878</xmin>
+			<ymin>662</ymin>
+			<xmax>1078</xmax>
+			<ymax>937</ymax>
 		</bndbox>
 	</object>
 	<object>

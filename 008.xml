@@ -1,7 +1,7 @@
 <annotation>
-	<folder>frames</folder>
-	<filename>008.jpeg</filename>
-	<path>/Users/marina/Desktop/figures_dataset/frames/008.jpeg</path>
+	<folder>Dataset</folder>
+	<filename>008.jpg</filename>
+	<path>/Users/marina/Desktop/dataset_git/Dataset/008.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -74,12 +74,12 @@
 	<object>
 		<name>Gray square</name>
 		<pose>Unspecified</pose>
-		<truncated>1</truncated>
+		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>871</xmin>
+			<xmin>869</xmin>
 			<ymin>550</ymin>
-			<xmax>1080</xmax>
+			<xmax>1078</xmax>
 			<ymax>791</ymax>
 		</bndbox>
 	</object>

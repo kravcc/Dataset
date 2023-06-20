@@ -1,7 +1,7 @@
 <annotation>
-	<folder>frames</folder>
-	<filename>260.jpeg</filename>
-	<path>/Users/marina/Desktop/figures_dataset/frames/260.jpeg</path>
+	<folder>Dataset</folder>
+	<filename>260.jpg</filename>
+	<path>/Users/marina/Desktop/dataset_git/Dataset/260.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -41,10 +41,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>629</xmin>
-			<ymin>604</ymin>
-			<xmax>821</xmax>
-			<ymax>773</ymax>
+			<xmin>642</xmin>
+			<ymin>594</ymin>
+			<xmax>834</xmax>
+			<ymax>763</ymax>
 		</bndbox>
 	</object>
 	<object>

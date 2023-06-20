@@ -1,7 +1,7 @@
 <annotation>
-	<folder>frames</folder>
-	<filename>311.jpeg</filename>
-	<path>/Users/marina/Desktop/figures_dataset/frames/311.jpeg</path>
+	<folder>Dataset</folder>
+	<filename>311.jpg</filename>
+	<path>/Users/marina/Desktop/dataset_git/Dataset/311.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -26,13 +26,13 @@
 	<object>
 		<name>Gray heart</name>
 		<pose>Unspecified</pose>
-		<truncated>1</truncated>
+		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>866</xmin>
-			<ymin>648</ymin>
-			<xmax>1080</xmax>
-			<ymax>871</ymax>
+			<xmin>864</xmin>
+			<ymin>645</ymin>
+			<xmax>1078</xmax>
+			<ymax>868</ymax>
 		</bndbox>
 	</object>
 	<object>

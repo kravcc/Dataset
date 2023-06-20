@@ -1,7 +1,7 @@
 <annotation>
-	<folder>frames</folder>
-	<filename>177.jpeg</filename>
-	<path>/Users/marina/Desktop/figures_dataset/frames/177.jpeg</path>
+	<folder>Dataset</folder>
+	<filename>177.jpg</filename>
+	<path>/Users/marina/Desktop/dataset_git/Dataset/177.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -38,13 +38,13 @@
 	<object>
 		<name>Gray four</name>
 		<pose>Unspecified</pose>
-		<truncated>1</truncated>
+		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>943</xmin>
-			<ymin>852</ymin>
-			<xmax>1080</xmax>
-			<ymax>1065</ymax>
+			<xmin>935</xmin>
+			<ymin>862</ymin>
+			<xmax>1072</xmax>
+			<ymax>1075</ymax>
 		</bndbox>
 	</object>
 </annotation>

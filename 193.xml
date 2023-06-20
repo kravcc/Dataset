@@ -1,7 +1,7 @@
 <annotation>
-	<folder>frames</folder>
-	<filename>193.jpeg</filename>
-	<path>/Users/marina/Desktop/figures_dataset/frames/193.jpeg</path>
+	<folder>Dataset</folder>
+	<filename>193.jpg</filename>
+	<path>/Users/marina/Desktop/dataset_git/Dataset/193.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -50,13 +50,13 @@
 	<object>
 		<name>Gray hexagon</name>
 		<pose>Unspecified</pose>
-		<truncated>1</truncated>
+		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>851</xmin>
-			<ymin>997</ymin>
-			<xmax>1080</xmax>
-			<ymax>1373</ymax>
+			<xmin>846</xmin>
+			<ymin>992</ymin>
+			<xmax>1075</xmax>
+			<ymax>1368</ymax>
 		</bndbox>
 	</object>
 </annotation>
