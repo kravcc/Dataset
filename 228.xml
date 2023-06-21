@@ -18,57 +18,9 @@
 		<difficult>0</difficult>
 		<bndbox>
 			<xmin>1</xmin>
-			<ymin>974</ymin>
-			<xmax>156</xmax>
-			<ymax>1148</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>Gray gear</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>373</xmin>
-			<ymin>779</ymin>
-			<xmax>521</xmax>
-			<ymax>941</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>Gray four</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>295</xmin>
-			<ymin>672</ymin>
-			<xmax>439</xmax>
-			<ymax>812</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>Gray heart</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>780</xmin>
-			<ymin>417</ymin>
-			<xmax>890</xmax>
-			<ymax>553</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>Gray star</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>637</xmin>
-			<ymin>344</ymin>
-			<xmax>782</xmax>
-			<ymax>475</ymax>
+			<ymin>986</ymin>
+			<xmax>152</xmax>
+			<ymax>1157</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -77,10 +29,58 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>142</xmin>
-			<ymin>463</ymin>
-			<xmax>253</xmax>
-			<ymax>589</ymax>
+			<xmin>128</xmin>
+			<ymin>469</ymin>
+			<xmax>268</xmax>
+			<ymax>579</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Gray four</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>292</xmin>
+			<ymin>667</ymin>
+			<xmax>426</xmax>
+			<ymax>810</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Gray gear</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>368</xmin>
+			<ymin>772</ymin>
+			<xmax>537</xmax>
+			<ymax>917</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Gray star</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>632</xmin>
+			<ymin>334</ymin>
+			<xmax>792</xmax>
+			<ymax>494</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Gray heart</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>761</xmin>
+			<ymin>419</ymin>
+			<xmax>894</xmax>
+			<ymax>560</ymax>
 		</bndbox>
 	</object>
 </annotation>

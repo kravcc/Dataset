@@ -1,0 +1,122 @@
+<annotation>
+	<folder>Dataset</folder>
+	<filename>018.jpg</filename>
+	<path>/Users/marina/Desktop/dataset_git/Dataset/018.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1080</width>
+		<height>1920</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Gray square</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>912</xmin>
+			<ymin>869</ymin>
+			<xmax>1061</xmax>
+			<ymax>1023</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Gray four</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>819</xmin>
+			<ymin>647</ymin>
+			<xmax>983</xmax>
+			<ymax>765</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Gray heart</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>564</xmin>
+			<ymin>644</ymin>
+			<xmax>728</xmax>
+			<ymax>767</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Gray circle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>418</xmin>
+			<ymin>513</ymin>
+			<xmax>554</xmax>
+			<ymax>667</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Gray A-letter</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>212</xmin>
+			<ymin>785</ymin>
+			<xmax>371</xmax>
+			<ymax>941</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Gray hexagon</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>335</xmin>
+			<ymin>1031</ymin>
+			<xmax>517</xmax>
+			<ymax>1195</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Gray star</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>623</xmin>
+			<ymin>872</ymin>
+			<xmax>797</xmax>
+			<ymax>1039</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Gray ring</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>571</xmin>
+			<ymin>1051</ymin>
+			<xmax>725</xmax>
+			<ymax>1203</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Gray gear</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>651</xmin>
+			<ymin>1226</ymin>
+			<xmax>820</xmax>
+			<ymax>1385</ymax>
+		</bndbox>
+	</object>
+</annotation>

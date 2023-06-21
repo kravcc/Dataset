@@ -12,26 +12,14 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>Gray circle</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>582</xmin>
-			<ymin>641</ymin>
-			<xmax>792</xmax>
-			<ymax>846</ymax>
-		</bndbox>
-	</object>
-	<object>
 		<name>Gray four</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>373</xmin>
-			<ymin>598</ymin>
-			<xmax>597</xmax>
+			<xmin>389</xmin>
+			<ymin>594</ymin>
+			<xmax>583</xmax>
 			<ymax>772</ymax>
 		</bndbox>
 	</object>
@@ -42,9 +30,21 @@
 		<difficult>0</difficult>
 		<bndbox>
 			<xmin>197</xmin>
-			<ymin>481</ymin>
-			<xmax>461</xmax>
-			<ymax>741</ymax>
+			<ymin>484</ymin>
+			<xmax>444</xmax>
+			<ymax>738</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Gray circle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>583</xmin>
+			<ymin>651</ymin>
+			<xmax>785</xmax>
+			<ymax>838</ymax>
 		</bndbox>
 	</object>
 </annotation>

@@ -1,0 +1,62 @@
+<annotation>
+	<folder>Dataset</folder>
+	<filename>046.jpg</filename>
+	<path>/Users/marina/Desktop/dataset_git/Dataset/046.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1080</width>
+		<height>1920</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Gray ring</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>548</xmin>
+			<ymin>623</ymin>
+			<xmax>810</xmax>
+			<ymax>887</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Gray gear</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>730</xmin>
+			<ymin>190</ymin>
+			<xmax>1018</xmax>
+			<ymax>483</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Gray star</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>579</xmin>
+			<ymin>1026</ymin>
+			<xmax>912</xmax>
+			<ymax>1359</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Gray square</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>25</xmin>
+			<ymin>1157</ymin>
+			<xmax>397</xmax>
+			<ymax>1503</ymax>
+		</bndbox>
+	</object>
+</annotation>

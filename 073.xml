@@ -1,0 +1,50 @@
+<annotation>
+	<folder>Dataset</folder>
+	<filename>073.jpg</filename>
+	<path>/Users/marina/Desktop/dataset_git/Dataset/073.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1080</width>
+		<height>1920</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Gray hexagon</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>861</xmin>
+			<ymin>826</ymin>
+			<xmax>1080</xmax>
+			<ymax>1105</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Gray ring</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>607</xmin>
+			<ymin>1326</ymin>
+			<xmax>848</xmax>
+			<ymax>1603</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Gray star</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>843</xmin>
+			<ymin>1633</ymin>
+			<xmax>1080</xmax>
+			<ymax>1903</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -12,27 +12,27 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>Gray gear</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>483</xmin>
-			<ymin>681</ymin>
-			<xmax>695</xmax>
-			<ymax>908</ymax>
-		</bndbox>
-	</object>
-	<object>
 		<name>Gray ring</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>263</xmin>
-			<ymin>631</ymin>
-			<xmax>470</xmax>
-			<ymax>836</ymax>
+			<xmin>275</xmin>
+			<ymin>634</ymin>
+			<xmax>473</xmax>
+			<ymax>831</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Gray gear</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>473</xmin>
+			<ymin>677</ymin>
+			<xmax>704</xmax>
+			<ymax>915</ymax>
 		</bndbox>
 	</object>
 </annotation>

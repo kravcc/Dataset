@@ -12,51 +12,15 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>Gray star</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>592</xmin>
-			<ymin>482</ymin>
-			<xmax>823</xmax>
-			<ymax>686</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>Gray heart</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>590</xmin>
-			<ymin>334</ymin>
-			<xmax>766</xmax>
-			<ymax>489</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>Gray gear</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>421</xmin>
-			<ymin>872</ymin>
-			<xmax>621</xmax>
-			<ymax>1069</ymax>
-		</bndbox>
-	</object>
-	<object>
 		<name>Gray square</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>90</xmin>
-			<ymin>888</ymin>
-			<xmax>289</xmax>
-			<ymax>1103</ymax>
+			<xmin>82</xmin>
+			<ymin>896</ymin>
+			<xmax>280</xmax>
+			<ymax>1108</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -65,10 +29,46 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>20</xmin>
-			<ymin>688</ymin>
-			<xmax>170</xmax>
-			<ymax>867</ymax>
+			<xmin>21</xmin>
+			<ymin>686</ymin>
+			<xmax>173</xmax>
+			<ymax>872</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Gray gear</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>409</xmin>
+			<ymin>870</ymin>
+			<xmax>625</xmax>
+			<ymax>1053</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Gray star</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>595</xmin>
+			<ymin>484</ymin>
+			<xmax>818</xmax>
+			<ymax>674</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Gray heart</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>597</xmin>
+			<ymin>343</ymin>
+			<xmax>775</xmax>
+			<ymax>494</ymax>
 		</bndbox>
 	</object>
 </annotation>

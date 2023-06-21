@@ -12,27 +12,27 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>Gray star</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>176</xmin>
-			<ymin>336</ymin>
-			<xmax>373</xmax>
-			<ymax>536</ymax>
-		</bndbox>
-	</object>
-	<object>
 		<name>Gray ring</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>652</xmin>
-			<ymin>405</ymin>
-			<xmax>818</xmax>
-			<ymax>557</ymax>
+			<xmin>656</xmin>
+			<ymin>391</ymin>
+			<xmax>814</xmax>
+			<ymax>565</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Gray star</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>190</xmin>
+			<ymin>334</ymin>
+			<xmax>380</xmax>
+			<ymax>531</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -41,10 +41,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>142</xmin>
-			<ymin>970</ymin>
-			<xmax>337</xmax>
-			<ymax>1181</ymax>
+			<xmin>145</xmin>
+			<ymin>950</ymin>
+			<xmax>340</xmax>
+			<ymax>1184</ymax>
 		</bndbox>
 	</object>
 </annotation>

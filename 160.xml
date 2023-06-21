@@ -1,7 +1,7 @@
 <annotation>
 	<folder>Dataset</folder>
-	<filename>380.jpg</filename>
-	<path>/Users/marina/Desktop/dataset_git/Dataset/380.jpg</path>
+	<filename>160.jpg</filename>
+	<path>/Users/marina/Desktop/dataset_git/Dataset/160.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>483</xmin>
-			<ymin>545</ymin>
+			<xmin>490</xmin>
+			<ymin>544</ymin>
 			<xmax>618</xmax>
-			<ymax>674</ymax>
+			<ymax>672</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -29,8 +29,8 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>639</xmin>
-			<ymin>744</ymin>
+			<xmin>625</xmin>
+			<ymin>762</ymin>
 			<xmax>766</xmax>
 			<ymax>903</ymax>
 		</bndbox>
