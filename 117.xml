@@ -1,7 +1,7 @@
 <annotation>
 	<folder>Dataset</folder>
-	<filename>117.jpg</filename>
-	<path>/Users/marina/Desktop/dataset_git/Dataset/117.jpg</path>
+	<filename>249.jpg</filename>
+	<path>/Users/marina/Desktop/dataset_git/Dataset/249.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -12,39 +12,15 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>Gray star</name>
-		<pose>Unspecified</pose>
-		<truncated>1</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>1</xmin>
-			<ymin>1287</ymin>
-			<xmax>226</xmax>
-			<ymax>1542</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>Gray heart</name>
+		<name>Gray A-letter</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>639</xmin>
-			<ymin>346</ymin>
-			<xmax>828</xmax>
-			<ymax>544</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>Gray four</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>504</xmin>
-			<ymin>691</ymin>
-			<xmax>700</xmax>
-			<ymax>861</ymax>
+			<xmin>733</xmin>
+			<ymin>1073</ymin>
+			<xmax>880</xmax>
+			<ymax>1197</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -53,46 +29,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>861</xmin>
-			<ymin>803</ymin>
-			<xmax>1037</xmax>
-			<ymax>1006</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>Gray hexagon</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>171</xmin>
-			<ymin>375</ymin>
-			<xmax>388</xmax>
-			<ymax>608</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>Gray ring</name>
-		<pose>Unspecified</pose>
-		<truncated>1</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>1</xmin>
-			<ymin>973</ymin>
-			<xmax>159</xmax>
-			<ymax>1185</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>Gray A-letter</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>633</xmin>
-			<ymin>1021</ymin>
-			<xmax>818</xmax>
-			<ymax>1247</ymax>
+			<xmin>738</xmin>
+			<ymin>715</ymin>
+			<xmax>863</xmax>
+			<ymax>839</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -101,10 +41,58 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>571</xmin>
-			<ymin>1244</ymin>
-			<xmax>792</xmax>
-			<ymax>1497</ymax>
+			<xmin>498</xmin>
+			<ymin>516</ymin>
+			<xmax>651</xmax>
+			<ymax>665</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Gray ring</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>462</xmin>
+			<ymin>726</ymin>
+			<xmax>580</xmax>
+			<ymax>859</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Gray four</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>260</xmin>
+			<ymin>922</ymin>
+			<xmax>400</xmax>
+			<ymax>1032</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Gray hexagon</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>919</xmin>
+			<ymin>816</ymin>
+			<xmax>1080</xmax>
+			<ymax>973</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Gray star</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>911</xmin>
+			<ymin>1216</ymin>
+			<xmax>1072</xmax>
+			<ymax>1373</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -113,10 +101,22 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>312</xmin>
-			<ymin>1393</ymin>
-			<xmax>504</xmax>
-			<ymax>1589</ymax>
+			<xmin>511</xmin>
+			<ymin>1287</ymin>
+			<xmax>655</xmax>
+			<ymax>1426</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Gray heart</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>327</xmin>
+			<ymin>1124</ymin>
+			<xmax>449</xmax>
+			<ymax>1261</ymax>
 		</bndbox>
 	</object>
 </annotation>

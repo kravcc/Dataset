@@ -1,98 +1,38 @@
 <annotation>
 	<folder>Dataset</folder>
-	<filename>169.jpg</filename>
-	<path>/Users/marina/Desktop/dataset_git/Dataset/169.jpg</path>
+	<filename>389.jpg</filename>
+	<path>/Users/marina/Desktop/dataset_git/Dataset/389.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>1080</width>
-		<height>1920</height>
+		<width>960</width>
+		<height>1280</height>
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
-	<object>
-		<name>Gray ring</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>504</xmin>
-			<ymin>1279</ymin>
-			<xmax>637</xmax>
-			<ymax>1422</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>Gray circle</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>556</xmin>
-			<ymin>803</ymin>
-			<xmax>678</xmax>
-			<ymax>936</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>Gray gear</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>204</xmin>
-			<ymin>803</ymin>
-			<xmax>353</xmax>
-			<ymax>942</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>Gray heart</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>139</xmin>
-			<ymin>610</ymin>
-			<xmax>280</xmax>
-			<ymax>738</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>Gray star</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>645</xmin>
-			<ymin>1175</ymin>
-			<xmax>811</xmax>
-			<ymax>1356</ymax>
-		</bndbox>
-	</object>
 	<object>
 		<name>Gray hexagon</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>272</xmin>
-			<ymin>1322</ymin>
-			<xmax>447</xmax>
-			<ymax>1508</ymax>
+			<xmin>511</xmin>
+			<ymin>560</ymin>
+			<xmax>681</xmax>
+			<ymax>729</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>Gray A-letter</name>
+		<name>Gray gear</name>
 		<pose>Unspecified</pose>
-		<truncated>0</truncated>
+		<truncated>1</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>68</xmin>
-			<ymin>1352</ymin>
-			<xmax>235</xmax>
-			<ymax>1544</ymax>
+			<xmin>830</xmin>
+			<ymin>292</ymin>
+			<xmax>960</xmax>
+			<ymax>449</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -101,10 +41,58 @@
 		<truncated>1</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>1</xmin>
-			<ymin>1189</ymin>
-			<xmax>143</xmax>
-			<ymax>1336</ymax>
+			<xmin>872</xmin>
+			<ymin>483</ymin>
+			<xmax>960</xmax>
+			<ymax>655</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Gray heart</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>871</xmin>
+			<ymin>635</ymin>
+			<xmax>960</xmax>
+			<ymax>839</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Gray ring</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>767</xmin>
+			<ymin>813</ymin>
+			<xmax>926</xmax>
+			<ymax>986</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Gray square</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>589</xmin>
+			<ymin>717</ymin>
+			<xmax>794</xmax>
+			<ymax>919</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Gray circle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>135</xmin>
+			<ymin>558</ymin>
+			<xmax>327</xmax>
+			<ymax>717</ymax>
 		</bndbox>
 	</object>
 </annotation>

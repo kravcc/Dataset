@@ -1,7 +1,7 @@
 <annotation>
 	<folder>Dataset</folder>
-	<filename>119.jpg</filename>
-	<path>/Users/marina/Desktop/dataset_git/Dataset/119.jpg</path>
+	<filename>259.jpg</filename>
+	<path>/Users/marina/Desktop/dataset_git/Dataset/259.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -14,13 +14,13 @@
 	<object>
 		<name>Gray square</name>
 		<pose>Unspecified</pose>
-		<truncated>0</truncated>
+		<truncated>1</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>39</xmin>
-			<ymin>1177</ymin>
-			<xmax>304</xmax>
-			<ymax>1395</ymax>
+			<xmin>1</xmin>
+			<ymin>126</ymin>
+			<xmax>135</xmax>
+			<ymax>325</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -29,10 +29,22 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>342</xmin>
-			<ymin>672</ymin>
-			<xmax>529</xmax>
-			<ymax>864</ymax>
+			<xmin>260</xmin>
+			<ymin>400</ymin>
+			<xmax>462</xmax>
+			<ymax>594</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Gray hexagon</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>546</xmin>
+			<ymin>580</ymin>
+			<xmax>773</xmax>
+			<ymax>778</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -41,34 +53,34 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>104</xmin>
-			<ymin>920</ymin>
-			<xmax>299</xmax>
-			<ymax>1152</ymax>
+			<xmin>259</xmin>
+			<ymin>916</ymin>
+			<xmax>481</xmax>
+			<ymax>1132</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>Gray four</name>
+		<name>Gray star</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>523</xmin>
+			<ymin>1132</ymin>
+			<xmax>778</xmax>
+			<ymax>1385</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Gray circle</name>
 		<pose>Unspecified</pose>
 		<truncated>1</truncated>
 		<difficult>0</difficult>
 		<bndbox>
 			<xmin>1</xmin>
-			<ymin>591</ymin>
-			<xmax>128</xmax>
-			<ymax>767</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>Gray heart</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>39</xmin>
-			<ymin>226</ymin>
-			<xmax>208</xmax>
-			<ymax>406</ymax>
+			<ymin>1271</ymin>
+			<xmax>123</xmax>
+			<ymax>1489</ymax>
 		</bndbox>
 	</object>
 </annotation>

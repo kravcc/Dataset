@@ -1,7 +1,7 @@
 <annotation>
 	<folder>Dataset</folder>
-	<filename>127.jpg</filename>
-	<path>/Users/marina/Desktop/dataset_git/Dataset/127.jpg</path>
+	<filename>288.jpg</filename>
+	<path>/Users/marina/Desktop/dataset_git/Dataset/288.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -12,27 +12,27 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>Gray square</name>
+		<name>Gray gear</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>773</xmin>
-			<ymin>1318</ymin>
-			<xmax>1075</xmax>
-			<ymax>1616</ymax>
+			<xmin>198</xmin>
+			<ymin>303</ymin>
+			<xmax>465</xmax>
+			<ymax>565</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>Gray ring</name>
+		<name>Gray heart</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>679</xmin>
-			<ymin>179</ymin>
-			<xmax>992</xmax>
-			<ymax>499</ymax>
+			<xmin>288</xmin>
+			<ymin>779</ymin>
+			<xmax>521</xmax>
+			<ymax>1032</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -41,10 +41,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>216</xmin>
-			<ymin>440</ymin>
-			<xmax>618</xmax>
-			<ymax>908</ymax>
+			<xmin>155</xmin>
+			<ymin>1152</ymin>
+			<xmax>421</xmax>
+			<ymax>1428</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -53,10 +53,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>447</xmin>
-			<ymin>1048</ymin>
-			<xmax>771</xmax>
-			<ymax>1391</ymax>
+			<xmin>804</xmin>
+			<ymin>1416</ymin>
+			<xmax>1018</xmax>
+			<ymax>1638</ymax>
 		</bndbox>
 	</object>
 </annotation>

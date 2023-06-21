@@ -1,7 +1,7 @@
 <annotation>
 	<folder>Dataset</folder>
-	<filename>132.jpg</filename>
-	<path>/Users/marina/Desktop/dataset_git/Dataset/132.jpg</path>
+	<filename>329.jpg</filename>
+	<path>/Users/marina/Desktop/dataset_git/Dataset/329.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -12,39 +12,15 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>Gray star</name>
+		<name>Gray A-letter</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>722</xmin>
-			<ymin>1614</ymin>
-			<xmax>1004</xmax>
-			<ymax>1889</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>Gray gear</name>
-		<pose>Unspecified</pose>
-		<truncated>1</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>924</xmin>
-			<ymin>1189</ymin>
-			<xmax>1080</xmax>
-			<ymax>1463</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>Gray hexagon</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>714</xmin>
-			<ymin>783</ymin>
-			<xmax>990</xmax>
-			<ymax>1036</ymax>
+			<xmin>160</xmin>
+			<ymin>671</ymin>
+			<xmax>451</xmax>
+			<ymax>904</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -53,10 +29,46 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>428</xmin>
-			<ymin>1315</ymin>
-			<xmax>691</xmax>
-			<ymax>1575</ymax>
+			<xmin>700</xmin>
+			<ymin>483</ymin>
+			<xmax>900</xmax>
+			<ymax>681</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Gray four</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>898</xmin>
+			<ymin>579</ymin>
+			<xmax>1080</xmax>
+			<ymax>765</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Gray heart</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>884</xmin>
+			<ymin>1028</ymin>
+			<xmax>1080</xmax>
+			<ymax>1248</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Gray circle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>723</xmin>
+			<ymin>1349</ymin>
+			<xmax>935</xmax>
+			<ymax>1566</ymax>
 		</bndbox>
 	</object>
 </annotation>

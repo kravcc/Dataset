@@ -6,57 +6,33 @@
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>1080</width>
-		<height>1920</height>
+		<width>960</width>
+		<height>1280</height>
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>Gray A-letter</name>
+		<name>Gray ring</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>778</xmin>
-			<ymin>1199</ymin>
-			<xmax>1029</xmax>
-			<ymax>1438</ymax>
+			<xmin>225</xmin>
+			<ymin>288</ymin>
+			<xmax>425</xmax>
+			<ymax>472</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>Gray hexagon</name>
+		<name>Gray star</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>600</xmin>
-			<ymin>1106</ymin>
-			<xmax>837</xmax>
-			<ymax>1361</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>Gray square</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>717</xmin>
-			<ymin>646</ymin>
-			<xmax>1004</xmax>
-			<ymax>891</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>Gray circle</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>584</xmin>
-			<ymin>385</ymin>
-			<xmax>772</xmax>
-			<ymax>579</ymax>
+			<xmin>414</xmin>
+			<ymin>668</ymin>
+			<xmax>664</xmax>
+			<ymax>927</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -65,34 +41,22 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>456</xmin>
-			<ymin>730</ymin>
-			<xmax>672</xmax>
-			<ymax>942</ymax>
+			<xmin>309</xmin>
+			<ymin>919</ymin>
+			<xmax>557</xmax>
+			<ymax>1129</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>Gray ring</name>
+		<name>Gray gear</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>100</xmin>
-			<ymin>854</ymin>
-			<xmax>311</xmax>
-			<ymax>1089</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>Gray star</name>
-		<pose>Unspecified</pose>
-		<truncated>1</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>976</xmin>
-			<ymin>803</ymin>
-			<xmax>1080</xmax>
-			<ymax>1006</ymax>
+			<xmin>697</xmin>
+			<ymin>75</ymin>
+			<xmax>897</xmax>
+			<ymax>288</ymax>
 		</bndbox>
 	</object>
 </annotation>

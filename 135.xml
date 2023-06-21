@@ -1,7 +1,7 @@
 <annotation>
 	<folder>Dataset</folder>
-	<filename>135.jpg</filename>
-	<path>/Users/marina/Desktop/dataset_git/Dataset/135.jpg</path>
+	<filename>348.jpg</filename>
+	<path>/Users/marina/Desktop/dataset_git/Dataset/348.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -12,15 +12,15 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>Gray star</name>
+		<name>Gray A-letter</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>139</xmin>
-			<ymin>979</ymin>
-			<xmax>463</xmax>
-			<ymax>1324</ymax>
+			<xmin>798</xmin>
+			<ymin>1173</ymin>
+			<xmax>1015</xmax>
+			<ymax>1375</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -29,58 +29,34 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>335</xmin>
-			<ymin>546</ymin>
-			<xmax>631</xmax>
-			<ymax>826</ymax>
+			<xmin>829</xmin>
+			<ymin>998</ymin>
+			<xmax>1037</xmax>
+			<ymax>1201</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>Gray hexagon</name>
+		<name>Gray heart</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>92</xmin>
-			<ymin>46</ymin>
-			<xmax>443</xmax>
-			<ymax>342</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>Gray A-letter</name>
-		<pose>Unspecified</pose>
-		<truncated>1</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>857</xmin>
-			<ymin>287</ymin>
-			<xmax>1080</xmax>
-			<ymax>604</ymax>
+			<xmin>649</xmin>
+			<ymin>573</ymin>
+			<xmax>829</xmax>
+			<ymax>783</ymax>
 		</bndbox>
 	</object>
 	<object>
 		<name>Gray circle</name>
 		<pose>Unspecified</pose>
-		<truncated>1</truncated>
+		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>935</xmin>
-			<ymin>895</ymin>
-			<xmax>1080</xmax>
-			<ymax>1132</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>Gray ring</name>
-		<pose>Unspecified</pose>
-		<truncated>1</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>1</xmin>
-			<ymin>671</ymin>
-			<xmax>59</xmax>
-			<ymax>901</ymax>
+			<xmin>280</xmin>
+			<ymin>852</ymin>
+			<xmax>484</xmax>
+			<ymax>1050</ymax>
 		</bndbox>
 	</object>
 </annotation>

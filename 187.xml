@@ -6,21 +6,21 @@
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>1080</width>
-		<height>1920</height>
+		<width>960</width>
+		<height>1280</height>
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>Gray square</name>
+		<name>Gray ring</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>341</xmin>
-			<ymin>930</ymin>
-			<xmax>543</xmax>
-			<ymax>1140</ymax>
+			<xmin>540</xmin>
+			<ymin>482</ymin>
+			<xmax>704</xmax>
+			<ymax>638</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -29,10 +29,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>622</xmin>
-			<ymin>925</ymin>
-			<xmax>757</xmax>
-			<ymax>1084</ymax>
+			<xmin>528</xmin>
+			<ymin>813</ymin>
+			<xmax>718</xmax>
+			<ymax>1001</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -41,34 +41,34 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>819</xmin>
-			<ymin>965</ymin>
-			<xmax>990</xmax>
-			<ymax>1132</ymax>
+			<xmin>199</xmin>
+			<ymin>863</ymin>
+			<xmax>428</xmax>
+			<ymax>1108</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>Gray four</name>
-		<pose>Unspecified</pose>
-		<truncated>1</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>956</xmin>
-			<ymin>1193</ymin>
-			<xmax>1080</xmax>
-			<ymax>1357</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>Gray circle</name>
+		<name>Gray A-letter</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>723</xmin>
-			<ymin>1099</ymin>
-			<xmax>864</xmax>
-			<ymax>1244</ymax>
+			<xmin>357</xmin>
+			<ymin>648</ymin>
+			<xmax>552</xmax>
+			<ymax>838</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Gray hexagon</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>197</xmin>
+			<ymin>670</ymin>
+			<xmax>380</xmax>
+			<ymax>872</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -77,10 +77,46 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>525</xmin>
-			<ymin>1173</ymin>
-			<xmax>656</xmax>
-			<ymax>1338</ymax>
+			<xmin>242</xmin>
+			<ymin>507</ymin>
+			<xmax>432</xmax>
+			<ymax>679</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Gray four</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>245</xmin>
+			<ymin>379</ymin>
+			<xmax>433</xmax>
+			<ymax>529</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Gray circle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>378</xmin>
+			<ymin>229</ymin>
+			<xmax>539</xmax>
+			<ymax>398</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Gray square</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>325</xmin>
+			<ymin>79</ymin>
+			<xmax>501</xmax>
+			<ymax>248</ymax>
 		</bndbox>
 	</object>
 </annotation>
